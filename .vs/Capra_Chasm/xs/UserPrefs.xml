@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9F12067C-C9B3-E546-1B7B-301CBEFC53AD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/PlatformPhysics.cs" Line="33" Column="1" />
+      <File FileName="../../Unity 2D/Intro_Setup/Capra/Assets/Scripts/PlayerController.cs" />
+      <File FileName="Assets/HealthBarUI.cs" />
+      <File FileName="Assets/WallClimbingSlider.cs" />
+      <File FileName="Assets/BaseEnemyDamage.cs" />
+      <File FileName="Assets/BasePlayerMovement.cs" />
+      <File FileName="Assets/PlayerStats.cs" />
+      <File FileName="Assets/Player.cs" Line="27" Column="36" />
+      <File FileName="Assets/SprintSlider.cs" Line="25" Column="1" NotebookId="1" />
+      <File FileName="Assets/WallPhysics.cs" NotebookId="1" />
+      <File FileName="Assets/EnemyMovement.cs" NotebookId="1" />
+      <File FileName="Assets/OnFallDeathTrigger.cs" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b79b8fc7-969d-4cb8-a70e-f40c448dd73a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
